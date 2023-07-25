@@ -239,7 +239,7 @@ Conclusión: Lo mejor que puedes hacer para salvar tu puesto y evitar un incendi
 
 
 
-14/43 Flujo de trabajo básico con un repositorio remoto14/43
+14/43 Flujo de trabajo básico con un repositorio remoto
 
 No veas esta clase a menos que hayas practicado todos los comandos de las clases anteriores.
 
@@ -289,6 +289,8 @@ Para ver todas las ramas se pueden enlistar con git branch -a
 
 NOTA: si vamos a trabajar varios con distintas vcx no tenemos posibilidad de conflicto a la hora del commit.
 Pero si vamos a trabajar varios con una misma vcx lo ideal seria que ninguno trabaje sobre la misma clase para asi evitar conflictos a la hora de hacer commit. Podemos trabajar cada uno con la misma clase pero al hacer commit tendremos conflicto que resolver.
+
+16/43 Fusión de ramas con Git merge
 
 
 
